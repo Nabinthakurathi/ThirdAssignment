@@ -22,7 +22,7 @@ public class AboutusFragment extends Fragment {
         webView = (WebView) v.findViewById(R.id.webview);
         //webView=(WebView) findViewById(R.id.webview);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://softwarica.edu.np/");
+        webView.loadUrl("https://softwarica.edu.np/about-softwarica/");
         return v;
     }
 }
