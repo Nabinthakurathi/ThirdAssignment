@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wbv</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_addstudents">Add Student</string>
+    <string name="title_aboutus">AboutUs</string>
+</resources>
